@@ -9,7 +9,8 @@
 •	Use ensemble and resampling techniques to improve model performance.<br>
 
 
-## 2. Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. 
+## 2. Results: 
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. 
 #### Naive Random Oversampling
 ![image](https://user-images.githubusercontent.com/120526544/233904735-13021e7b-979f-4476-bffc-7a215538e342.png)
 ![image](https://user-images.githubusercontent.com/120526544/233904749-2fe859c5-4bed-46be-aa67-bde28df5c22a.png)
